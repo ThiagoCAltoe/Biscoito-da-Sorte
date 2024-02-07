@@ -3,8 +3,6 @@ const btnReset = document.querySelector("#btnReset");
 const screen1 = document.querySelector(".screen1");
 const screen2 = document.querySelector(".screen2");
 
-let randomNumber = Math.floor(Math.random() * sorteS.length);
-
 let sorteS = [
   "A vida trará coisas boas se tiver paciência.",
   "Demonstre amor e alegria em todas as oportunidades e verá que a paz nasce dentro de si.",
@@ -158,6 +156,8 @@ let sorteS = [
   "Acredite em milagres, mas não dependa deles.",
   "Realize o óbvio, pense no improvável e conquiste o impossível.",
 ];
+
+let randomNumber = Math.floor(Math.random() * sorteS.length);
 
 // Eventos //
 btnTry.addEventListener("click", handleTryClick);

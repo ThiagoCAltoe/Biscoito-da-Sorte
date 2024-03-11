@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Clique no biscoito da sorte e veja sua sorte XD
 
-- [Acesse o projeto finalizado, online](thiagocaltoe.github.io/Biscoito-da-Sorte/)
+- [Acesse o projeto finalizado, online](https://thiagocaltoe.github.io/Biscoito-da-Sorte/)
 
 ## :memo: Licença
 

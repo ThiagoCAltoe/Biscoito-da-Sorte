@@ -197,7 +197,7 @@ function handleTryClick() {
 
 function handleResetClick() {
   toggleScreen();
-  randomNumber = Math.round(Math.random() * 59);
+  randomNumber = Math.floor(Math.random() * sorteS.length);
 }
 
 function toggleScreen() {
